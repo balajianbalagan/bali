@@ -1,0 +1,128 @@
+body{
+  margin:0;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  color: #40514E;
+}
+h1{
+  margin: 0 auto;
+  font-family: 'Montez', cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+  line-height: 2;
+}
+h2{
+  color: #66BFBF;
+  font-size: 3rem;
+}
+h3{
+  font-size: 2.5rem;
+  font-weight: normal;
+  color: #11999E;
+}
+a{
+  color: #11999E;
+}
+p{
+  font-weight: bold;
+  line-height: 3;
+}
+hr{
+  border-top: dotted #EAF6F6 6px;
+  width: 20%;
+  border-bottom: none;
+  border-left: none;
+  border-right: none;
+}
+.pro{
+  font-size: 2.6rem;
+  font-weight: normal;
+  color: grey;
+}
+.top-container{
+  width:100%;
+  background-color: #ccf2f4;
+  padding-top: 200px;
+}
+.middle-container{
+
+}
+.bottom-container{
+
+}
+.bottom-img{
+  height: 100px;
+  position: absolute;
+  left: 350px;
+}
+.top-img{
+  height: 100px;
+  position: absolute;
+  right: 350px;
+  top:75px;
+
+}
+.astro{
+  height: 300px;
+  margin-top: 50px;
+  margin-bottom: 0;
+}
+.profile img{
+  margin-top: 50px;
+  height: 200px;
+  border-radius: 55%;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+
+}
+.contact-me{
+  width: 50%;
+  margin: 100px auto;
+  line-height: 2;
+
+}
+.catcodesticker{
+  width: 25%;
+  float: left;
+  margin-right: 40px;
+  margin-top: 70px;
+  margin-bottom: 100px;
+}
+.catlooksticker{
+  width: 18%;
+  float: right;
+  margin: 150px 0 0 40px;
+}
+.btn{
+    background: linear-gradient(to left, #00b4db, #0083b0);
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  padding: 10px;
+  border-radius: 10px;
+  line-height: 7;
+}
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+.bottom-container{
+  width: 100%;
+  background-color: #ccf2f4;
+  padding: 50px 0 55px;
+}
+.footer-link{
+padding: 30px;
+text-decoration: none;
+font-weight: bold;
+line-height: 3;
+}
